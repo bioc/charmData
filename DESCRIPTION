@@ -1,0 +1,13 @@
+Package: charmData
+Type: Package
+Title: An example dataset for use with the charm package
+Version: 0.99.0
+Date: 2010-02-10
+Author: Martin Aryee
+Maintainer: Martin Aryee <aryee@jhu.edu>
+Description: An example dataset for use with the charm package
+License: LGPL (>= 2)
+Depends: R(>= 2.11.0), charm, pd.charm.hg18.example
+biocViews: ExperimentData
+ZipData: no
+LazyLoad: yes
