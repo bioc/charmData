@@ -1,8 +1,8 @@
 Package: charmData
 Type: Package
 Title: An example dataset for use with the charm package
-Version: 0.99.1
-Date: 2010-03-05
+Version: 0.99.2
+Date: 2010-10-13
 Author: Martin Aryee
 Maintainer: Martin Aryee <aryee@jhu.edu>
 Description: An example dataset for use with the charm package
